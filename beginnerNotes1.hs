@@ -1,3 +1,4 @@
+-- reminder: runghc filename to run
 -- can declare types separately to variable names
 {-
 IO () - type that produces the side effect to print to the screen 
